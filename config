@@ -63,6 +63,7 @@ input type:touchpad {
     tap enabled
     natural_scroll enabled
 }
+seat * hide_cursor 5000
 
 ### Key bindings
 #
