@@ -214,4 +214,9 @@ bar {
     }
 }
 
+#
+# Windows:
+#
+default_border none
+
 include /etc/sway/config.d/*
