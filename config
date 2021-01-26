@@ -64,6 +64,7 @@ input type:touchpad {
     natural_scroll enabled
 }
 seat * hide_cursor 5000
+mouse_warping none
 
 input type:keyboard {
     xkb_layout "us"
