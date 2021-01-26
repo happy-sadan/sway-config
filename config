@@ -65,6 +65,11 @@ input type:touchpad {
 }
 seat * hide_cursor 5000
 
+input type:keyboard {
+    xkb_layout "us"
+    xkb_variant "altgr-intl"
+}
+
 ### Key bindings
 #
 # Basics:
